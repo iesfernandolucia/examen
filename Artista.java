@@ -19,7 +19,7 @@ public class Artista {
         return nombreArtista;
 	//Esto es un comentario
     }
-    
-}
 
+	//Soy un nuevo comentario    
+}
 
